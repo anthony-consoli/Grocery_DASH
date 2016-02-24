@@ -1,0 +1,17 @@
+Item Name,Price,Price per Pound,Location
+Apples,x,$1.99,P2
+Bananas,x,$0.79,P1
+Carrots,$1.29,x,P1
+Cucumbers,x,$1.00,P1
+Grapes,x,$2.79,P1
+Green Peppers,x,$2.99,P2
+Lemons,$0.80,x,P2
+Limes,$0.80,x,P1
+Oranges,$1.00,x,P1
+Peaches,x,$1.79,P
+Pears,x,$1.99,P2
+Potatoes,$3.99,$1.79,P2
+Red Peppers,x,$2.99,P1
+Strawberries,$2.99,x,P
+Tomatoes,$3.99,$1.29,P1
+Watermelon,$4.99,x,P2

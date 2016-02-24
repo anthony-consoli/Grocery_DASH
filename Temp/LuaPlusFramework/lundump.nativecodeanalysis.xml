@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DEFECTS><DEFECT><SFA><FILEPATH>c:\users\andrew\documents\visual studio 2013\projects\grocery dash\luaplusframework\lua\</FILEPATH><FILENAME>lundump.c</FILENAME><LINE>287</LINE><COLUMN>30</COLUMN></SFA><DEFECTCODE>6326</DEFECTCODE><DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION><FUNCTION>luaU_header</FUNCTION><DECORATED>luaU_header</DECORATED><FUNCLINE>274</FUNCLINE><PATH/></DEFECT></DEFECTS>

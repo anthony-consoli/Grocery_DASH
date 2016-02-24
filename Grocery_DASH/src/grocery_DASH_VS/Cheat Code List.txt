@@ -1,0 +1,10 @@
+Key				Cheat Description
+===========================================================
+
+I				Increase level time remaining by 15 seconds
+
+O				Decrease level time remaining by 30 seconds
+
+Y				Increase the spending limit by $10.00
+
+U				Decrease the spending limit by $5.00

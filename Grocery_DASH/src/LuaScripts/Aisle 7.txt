@@ -1,0 +1,32 @@
+Item Name,Price,Price per Pound,Location
+BBQ Sauce,$2.09,x,7
+Beans,$1.99,x,7
+Canned Veggies (beats),$0.99,x,7
+Canned Veggies (carrots),$0.99,x,7
+Canned Veggies (corn),$0.99,x,7
+Canned Veggies (green beans),$0.99,x,7
+Canned Veggies (mixed),$0.99,x,7
+Canned Veggies (peas),$0.99,x,7
+Chicken Broth,$3.79,x,7
+Chili Mix,$2.99,x,7
+Clam Juice,$1.99,x,7
+Corned Beef,$2.99,x,7
+Croutons,$1.79,x,7
+Gravy,$1.99,x,7
+Ketchup,$3.99,x,7
+Mac 'n' Cheese,$1.00,x,7
+Mashed Potatoes,$1.79,x,7
+Mustard,$2.99,x,7
+Olives,$2.99,x,7
+Pickles,$3.79,x,7
+Ramen Noodles,$0.50,x,7
+Rice (5lb. bag),$5.99,x,7
+Rice (box),$1.99,x,7
+Salad Dressing (blue cheese),$1.79,x,7
+Salad Dressing (italian),$1.79,x,7
+Salad Dressing (ranch),$1.79,x,7
+Salmon (canned),$1.99,x,7
+Soup (chicken noodle),$4.29,x,7
+Soup (tomato),$4.29,x,7
+Spam,$3.25,x,7
+Tuna (canned),$1.29,x,7

@@ -1,0 +1,49 @@
+Item Name,Price,Price per Pound,Location
+Baking Powder,$1.29,x,8
+Baking Soda,$1.29,x,8
+Brownie Mix,$2.99,x,8
+Cake Mix,$2.99,x,8
+Chocolate Chips,$2.99,x,8
+Chocolate Syrup,$2.99,x,8
+Coffee,$3.99,x,8
+Cupcake Cups,$0.99,x,8
+Extract (almond),$1.99,x,8
+Extract (vanilla),$1.99,x,8
+Flour,$4.29,x,8
+Foil Pans,$2.99,x,8
+Frosting (chocolate),$2.99,x,8
+Frosting (vanilla),$2.99,x,8
+Hot Cocoa,$1.79,x,8
+Iced Tea Mix,$3.99,x,8
+Instant Milk Mix,$1.99,x,8
+Jam,$2.79,x,8
+Jell-O Mix,$2.79,x,8
+Jelly,$2.79,x,8
+Kool-Aid,$1.79,x,8
+Lemonade Mix,$1.79,x,8
+Maple Syrup,$2.99,x,8
+Pancake Mix,$2.99,x,8
+Pans,$4.99,x,8
+Peanut Butter,$2.79,x,8
+Pepper,$1.50,x,8
+Pie Crust,$1.79,x,8
+Pie Filling,$2.99,x,8
+Plastic Bowl,$1.25,x,8
+Pudding (chocolate),$1.99,x,8
+Pudding (vanilla),$1.99,x,8
+Salt,$1.50,x,8
+Salt Shakers,$1.99,x,8
+Spice (basil),$0.99,x,8
+Spice (cinnamon),$0.99,x,8
+Spice (curry powder),$0.99,x,8
+Spice (garlic powder),$0.99,x,8
+Spice (oregano),$0.99,x,8
+Spice (paprika),$0.99,x,8
+Spice (parsley),$0.99,x,8
+Spice (thyme),$0.99,x,8
+Strawberry Syrup,$1.79,x,8
+Sugar,$1.99,x,8
+Tea (bags),$2.99,x,8
+Tea (loose),$2.50,x,8
+Walnuts,$1.59,x,8
+Yeast,$1.00,x,8

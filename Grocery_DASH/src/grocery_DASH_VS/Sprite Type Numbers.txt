@@ -1,0 +1,34 @@
+#0		player_sprite_m
+
+#1		customer_sprite_normal_f
+
+#2		customer_sprite_normal_m
+
+#3		customer_sprite_old_f
+
+#4		customer_sprite_old_m
+
+#5		customer_sprite_rude_f
+
+#6		customer_sprite_rude_m
+
+#7		employee_sprite_Andrew
+
+#8		employee_sprite_Andres
+
+#9		employee_sprite_Frank
+
+#10		employee_sprite_manager
+
+#11		employee_sprite_bakery
+
+#12		employee_sprite_cashier_f
+
+#13		employee_sprite_cashier_m
+
+#14		employee_sprite_deli
+
+#15		employee_sprite_floor
+
+#16		player_sprite_f
+

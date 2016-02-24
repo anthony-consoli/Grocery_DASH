@@ -1,0 +1,18 @@
+Item Name,Price,Price per Pound,Location
+Almond Milk,$3.99,x,12
+Bread (gluten free),$4.99,x,12
+Bread (large loaf),$3.99,x,12
+Bread (small loaf),$2.99,x,12
+Bread (whole grain),$3.99,x,12
+Bread crumbs,$1.99,x,12
+Chicken Broth (organic),$2.99,x,12
+Chips (gluten free),$3.99,x,12
+English Muffins,$2.79,x,12
+Hamburger Buns,$1.99,x,12
+Hot Dog Buns,$1.99,x,12
+Pasta (gluten free),$2.99,x,12
+Quinoa,$1.89,x,12
+Rice Cakes,$1.99,x,12
+Soup (organic),$3.99,x,12
+Stuffing,$2.89,x,12
+Trail Mix,$1.99,x,12

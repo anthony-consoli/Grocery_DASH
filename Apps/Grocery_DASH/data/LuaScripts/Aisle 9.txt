@@ -1,0 +1,30 @@
+Item Name,Price,Price per Pound,Location
+Asian Rice,$0.99,x,9
+Canned Tomatoes,$1.29,x,9
+Coconut Milk,$1.69,x,9
+Coconut Water,$1.49,x,9
+Cooking Spray,$1.99,x,9
+Cooking Timers,$5.99,x,9
+Duck Sauce,$3.99,x,9
+GOYA Beans,$2.99,x,9
+GOYA lentils,$2.79,x,9
+Kosher Potatoes,$1.79,x,9
+Matzos,$4.99,x,9
+Olive Oil,$9.99,x,9
+Pasta (elbows),$1.79,x,9
+Pasta (lasagne),$1.79,x,9
+Pasta (penne),$1.79,x,9
+Pasta (rotini),$1.79,x,9
+Pasta (spaghetti),$1.79,x,9
+Pasta (ziti),$1.79,x,9
+Peppers (jar),$1.99,x,9
+Refried Beans,$1.59,x,9
+Salsa,$3.99,x,9
+Serving Spoons,$1.00,x,9
+Spatula,$1.00,x,9
+Taco Kits,$6.99,x,9
+Tomato Sauce,$5.99,x,9
+Tortillas,$2.99,x,9
+Turkey Basters,$1.00,x,9
+Vegetable Oil,$7.99,x,9
+Vinegar,$3.99,x,9

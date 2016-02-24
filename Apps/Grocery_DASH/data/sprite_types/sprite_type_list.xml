@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sprite_type_list>
+
+	<sprite_type>player_sprite_m</sprite_type>
+
+	<sprite_type>customer_sprite_normal_f</sprite_type>
+
+	<sprite_type>customer_sprite_normal_m</sprite_type>
+
+	<sprite_type>customer_sprite_old_f</sprite_type>
+
+	<sprite_type>customer_sprite_old_m</sprite_type>
+
+	<sprite_type>customer_sprite_rude_f</sprite_type>
+
+	<sprite_type>customer_sprite_rude_m</sprite_type>
+
+	<sprite_type>employee_sprite_Andrew</sprite_type>
+
+	<sprite_type>employee_sprite_Andres</sprite_type>
+
+	<sprite_type>employee_sprite_Frank</sprite_type>
+
+	<sprite_type>employee_sprite_manager</sprite_type>
+
+	<sprite_type>employee_sprite_bakery</sprite_type>
+
+	<sprite_type>employee_sprite_cashier_f</sprite_type>
+
+	<sprite_type>employee_sprite_cashier_m</sprite_type>
+
+	<sprite_type>employee_sprite_deli</sprite_type>
+
+	<sprite_type>employee_sprite_floor</sprite_type>
+
+	<sprite_type>player_sprite_f</sprite_type>
+
+
+</sprite_type_list>
+

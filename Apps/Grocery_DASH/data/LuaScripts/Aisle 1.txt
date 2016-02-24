@@ -1,0 +1,12 @@
+Item Name,Price,Price per Pound,Location
+Baby Food,$0.59,x,1
+Baby Formula,$10.99,x,1
+Baby Wipes,$2.99,x,1
+Diapers,$9.99,x,1
+Greeting Cards,$3.99,x,1
+Index Cards,$2.79,x,1
+Notebooks,$0.99,x,1
+Pencils,$0.99,x,1
+Pens,$1.99,x,1
+Tape,$2.99,x,1
+Tissue Paper,$0.99,x,1

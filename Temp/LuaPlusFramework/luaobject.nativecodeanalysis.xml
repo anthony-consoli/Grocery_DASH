@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DEFECTS><DEFECT><SFA><FILEPATH>c:\users\andrew\documents\visual studio 2013\projects\grocery dash\luaplusframework\</FILEPATH><FILENAME>luaobject.cpp</FILENAME><LINE>1023</LINE><COLUMN>28</COLUMN></SFA><DEFECTCODE>6255</DEFECTCODE><DESCRIPTION>_alloca indicates failure by raising a stack overflow exception.  Consider using _malloca instead.</DESCRIPTION><FUNCTION>LuaPlus::LuaObject::Lookup</FUNCTION><DECORATED>?Lookup@LuaObject@LuaPlus@@QAE?AV12@PBD@Z</DECORATED><FUNCLINE>1017</FUNCLINE><PATH/></DEFECT></DEFECTS>

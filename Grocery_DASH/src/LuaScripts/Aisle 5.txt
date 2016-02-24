@@ -1,0 +1,18 @@
+Item Name,Price,Price per Pound,Location
+Bloody Mary Mix,$2.79,x,5
+Chips (BBQ),$4.29,x,5
+Chips (original),$4.29,x,5
+Chips (Salt and Vinegar),$4.29,x,5
+Chips (tortilla),$4.29,x,5
+Iced Tea (bottle),$1.79,x,5
+Pretzels,$3.99,x,5
+Salsa,$3.99,x,5
+Seltzer (bottle),$0.60,x,5
+Seltzer (cans),$2.99,x,5
+Soda (Coke bottle),$1.99,x,5
+Soda (Coke cans),$5.99,x,5
+Soda (Dr. Pepper bottle),$1.99,x,5
+Soda (Dr. Pepper cans),$5.99,x,5
+Soda (Pepsi bottle),$1.99,x,5
+Soda (Pepsi cans),$5.99,x,5
+Whiskey Sour,$1.79,x,5

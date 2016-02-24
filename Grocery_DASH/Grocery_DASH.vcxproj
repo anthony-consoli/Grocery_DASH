@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\grocery_DASH\GroceryDash.h" />
+    <ClInclude Include="src\grocery_DASH\GroceryDashAudio.h" />
+    <ClInclude Include="src\grocery_DASH\GroceryDashButtonEventHandler.h" />
+    <ClInclude Include="src\grocery_DASH\GroceryDashCollisionListener.h" />
+    <ClInclude Include="src\grocery_DASH\GroceryDashDataLoader.h" />
+    <ClInclude Include="src\grocery_DASH\GroceryDashKeyEventHandler.h" />
+    <ClInclude Include="src\grocery_DASH\GroceryDashLuaScripting.h" />
+    <ClInclude Include="src\grocery_DASH\GroceryDashMouseEventHandler.h" />
+    <ClInclude Include="src\grocery_DASH\GroceryDashTextGenerator.h" />
+    <ClInclude Include="src\grocery_DASH\SDKwavefile.h" />
+    <ClInclude Include="src\grocery_DASH_VS\stdafx.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\grocery_DASH\GroceryDash.cpp" />
+    <ClCompile Include="src\grocery_DASH\GroceryDashAudio.cpp" />
+    <ClCompile Include="src\grocery_DASH\GroceryDashButtonEventHandler.cpp" />
+    <ClCompile Include="src\grocery_DASH\GroceryDashCollisionListener.cpp" />
+    <ClCompile Include="src\grocery_DASH\GroceryDashDataLoader.cpp" />
+    <ClCompile Include="src\grocery_DASH\GroceryDashKeyEventHandler.cpp" />
+    <ClCompile Include="src\grocery_DASH\GroceryDashLuaScripting.cpp" />
+    <ClCompile Include="src\grocery_DASH\GroceryDashMouseEventHandler.cpp" />
+    <ClCompile Include="src\grocery_DASH\GroceryDashTextGenerator.cpp" />
+    <ClCompile Include="src\grocery_DASH\SDKwavefile.cpp" />
+    <ClCompile Include="src\grocery_DASH_VS\stdafx.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="src\grocery_DASH_VS\Cheat Code List.txt" />
+    <Text Include="src\grocery_DASH_VS\Item Number List.txt" />
+    <Text Include="src\grocery_DASH_VS\Sprite Type Numbers.txt" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{CAF2A3BA-D221-48BB-A1EE-D54BBACCDC6D}</ProjectGuid>
+    <RootNamespace>Grocery_DASH</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>$(SolutionDir)PoseurSpriteTypesImporter\src\;$(SolutionDir)Grocery_DASH\src\;C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Include;$(SolutionDir)XMLFileImporter\src\;$(SolutionDir)TMXMapImporter\src\;$(SolutionDir)tinyxml\src\;$(SolutionDir)SimpleSideScrollerFramework\src\;$(SolutionDir)Box2D\;$(SolutionDir)LuaPlusFramework\;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)Common;C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x86;C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x64;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)Apps\$(ProjectName)\</OutDir>
+    <IntDir>$(SolutionDir)Temp\$(ProjectName)\$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IncludePath>$(SolutionDir)PoseurSpriteTypesImporter\src\;$(SolutionDir)Grocery_DASH\src\;C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Include;$(SolutionDir)XMLFileImporter\src\;$(SolutionDir)TMXMapImporter\src\;$(SolutionDir)tinyxml\src\;$(SolutionDir)SimpleSideScrollerFramework\src\;$(SolutionDir)Box2D\;$(SolutionDir)LuaPlusFramework\;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)Common;C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x86;C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x64;$(LibraryPath)</LibraryPath>
+    <IntDir>$(SolutionDir)Temp\$(ProjectName)\$(Configuration)\</IntDir>
+    <OutDir>$(SolutionDir)Apps\$(ProjectName)\</OutDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>
+      </PreprocessorDefinitions>
+      <DisableLanguageExtensions>false</DisableLanguageExtensions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>$(SolutionDir)Box2D\Build\vs2012\bin\Debug\Box2D.lib;$(SolutionDir)Common\SimpleSideScrollerFramework.lib;$(SolutionDir)Common\PoseurSpriteTypesImporter.lib;$(SolutionDir)Common\tinyxml.lib;$(SolutionDir)Common\XMLFileImporter.lib;$(SolutionDir)Common\TMXMapImporter.lib;$(SolutionDir)Common\LuaPlus.lib;d3d9.lib;d3dx9.lib;winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>
+      </PreprocessorDefinitions>
+      <DisableLanguageExtensions>false</DisableLanguageExtensions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>$(SolutionDir)Box2D\Build\vs2012\bin\Debug\Box2D.lib;$(SolutionDir)Common\SimpleSideScrollerFramework.lib;$(SolutionDir)Common\PoseurSpriteTypesImporter.lib;$(SolutionDir)Common\tinyxml.lib;$(SolutionDir)Common\XMLFileImporter.lib;$(SolutionDir)Common\TMXMapImporter.lib;$(SolutionDir)Common\LuaPlus.lib;d3d9.lib;d3dx9.lib;winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

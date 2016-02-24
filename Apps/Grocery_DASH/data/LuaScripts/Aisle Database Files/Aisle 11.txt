@@ -1,0 +1,25 @@
+Item Name,Price,Price per Pound,Location
+Aluminum Foil,$2.99,x,11
+Garbage Bags,$4.99,x,11
+Napkins,$2.99,x,11
+Paper Cups,$1.99,x,11
+Paper Lunch Bags,$1.00,x,11
+Paper Plates,$1.79,x,11
+Paper Towels (12pk),$7.99,x,11
+Paper Towels (24pk),$15.99,x,11
+Paper Towels (6pk),$3.99,x,11
+Paper Towels (single),$1.99,x,11
+Plastic Containers,$2.79,x,11
+Plastic Cups,$2.99,x,11
+Red SOLO Cups,$3.99,x,11
+Sandwich Bags,$1.99,x,11
+Straws,$1.00,x,11
+Tissues (3pk),$4.99,x,11
+Tissues (single),$1.50,x,11
+Toilet Paper (12pk),$7.99,x,11
+Toilet Paper (36pk),$10.99,x,11
+Toilet Paper (6pk),$3.99,x,11
+Toilet Paper (single),$0.59,x,11
+Toothpicks,$0.75,x,11
+Wax Paper,$1.99,x,11
+Ziploc Bags,$2.99,x,11

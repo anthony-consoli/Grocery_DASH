@@ -1,0 +1,20 @@
+Item Name,Price,Price per Pound,Location
+Applesauce,$2.99,x,4
+Candy (chewy),$1.99,x,4
+Candy (hard),$1.99,x,4
+Fruit Cups,$2.79,x,4
+Gatorade,$1.29,x,4
+Gum,$1.39,x,4
+Iced Tea (gallon),$3.99,x,4
+Juice (apple),$2.99,x,4
+Juice (cranberry),$2.99,x,4
+Juice (grape),$2.99,x,4
+Juice (lemon),$1.79,x,4
+Juice (lime),$1.79,x,4
+Juice Boxes,$2.59,x,4
+Popcorn,$4.29,x,4
+Powerade,$1.29,x,4
+Water (24 pk),$5.99,x,4
+Water (28 pk),$5.99,x,4
+Water (bottle),$0.99,x,4
+Water (gallon),$1.99,x,4

@@ -1,0 +1,29 @@
+Item Name,Price,Price per Pound,Location
+Air Fresheners,$3.79,x,10
+Bar Soap,$1.99,x,10
+Bleach,$4.99,x,10
+Broom,$8.99,x,10
+Bug Repelent,$3.79,x,10
+Detergent,$5.99,x,10
+Dish Soap,$3.99,x,10
+Dishwasher Soap,$2.99,x,10
+Drano,$7.99,x,10
+Dryer Sheets,$3.99,x,10
+Fabric Softener,$2.79,x,10
+Febreze,$2.99,x,10
+Garbage Bin,$10.99,x,10
+Hand Soap,$2.59,x,10
+Hangers,$3.99,x,10
+Laundry Basket,$7.99,x,10
+Lysol,$3.99,x,10
+Mop,$6.99,x,10
+Moth Balls,$2.99,x,10
+Pledge,$2.99,x,10
+RidX,$3.99,x,10
+Rubber Gloves,$1.79,x,10
+Shoe Laces,$1.50,x,10
+Shoe Polish,$1.79,x,10
+Sponge,$1.79,x,10
+Tablecloth,$8.99,x,10
+Tilex,$3.99,x,10
+Windex,$3.99,x,10

@@ -1,0 +1,12 @@
+Item Name,Price,Price per Pound,Location
+Bandages,$2.79,x,2
+Chapstick,$1.50,x,2
+Deodorent,$2.99,x,2
+Eyedrops,$1.99,x,2
+Medication,$5.99,x,2
+Mouthwash,$1.99,x,2
+Q-Tips,$1.99,x,2
+Shampoo,$4.29,x,2
+Toothbrushes,$1.29,x,2
+Toothpaste,$3.59,x,2
+Vitamins,$2.99,x,2

@@ -1,0 +1,108 @@
+Item Name,Price,Price per Pound,Location
+Tissues (single),1.50,1,1
+Garbage Bags,4.99,1,2
+Straws,1.00,1,3
+Toilet Paper (single),0.59,1,4
+Aluminum Foil,2.99,1,5
+Paper Towels (single),1.99,1,6
+Wax Paper,1.99,1,7
+Red SOLO Cups,3.99,1,8
+
+Bandages,2.79,2,1
+Chapstick,1.50,2,2
+Medication,5.99,2,3
+Toothpaste,3.59,2,4
+Vitamins,2.99,2,5
+Q-Tips,1.99,2,6
+Deodorent,2.99,2,7
+Shampoo,4.29,2,8
+
+Cereal,3.99,3,1
+Fruit Bars,2.79,3,2
+Crackers,1.99,3,3
+Breadsticks,2.99,3,4
+Oatmeal,3.79,3,5
+Cookies (chocolate),2.99,3,6
+Cookies (vanilla),2.99,3,7
+Toaster Pasteries,3.79,3,8
+
+Candy (hard),1.99,4,1
+Candy (chewy),1.99,4,2
+Juice Boxes,2.59,4,3
+Juice (grape),2.99,4,4
+Iced Tea,3.99,4,5
+Juice (apple),2.99,4,6
+Juice (cranberry),2.99,4,7
+Popcorn,4.29,4,8
+
+Soda (Cola),1.99,5,1
+Soda (Blue Raspberry),1.99,5,2
+Soda (Orange),1.99,5,3
+Soda (Grape),1.99,5,4
+Pretzels,3.99,5,5
+Chips (Cheese),4.29,5,6
+Chips (tortilla),4.29,5,7
+Chips (BBQ),4.29,5,8
+
+Cat Food (cans),0.65,6,1
+Dog Food (cans),0.89,6,2
+Fish Food,1.00,6,3
+Wiper Fluid,6.50,6,4
+Motor Oil,5.79,6,5
+Rock Salt,2.99,6,6
+Firewood,6.99,6,7
+Lighter Fluid,1.99,6,8
+
+Mac 'n' Cheese,1.00,7,1
+Rice (box),1.99,7,2
+Canned Veggies (mixed),0.99,7,3
+Soup (chicken noodle),4.29,7,4
+Tuna (canned),1.29,7,5
+Pickles,3.79,7,6
+Spam,3.25,7,7
+Chicken Broth,3.79,7,8
+
+Cake Mix,2.99,8,1
+Jelly,2.79,8,2
+Sugar,1.99,8,3
+Tea (bags),2.99,8,4
+Instant Milk Mix,1.99,8,5
+Extract (vanilla),1.99,8,6
+Brownie Mix,2.99,8,7
+Iced Tea Mix,3.99,8,8
+
+Vinegar,3.99,9,1
+Olive Oil,9.99,9,2
+Duck Sauce,3.99,9,3
+Coconut Water,1.49,9,4
+Asian Rice,0.99,9,5
+Canned Tomatoes,1.29,9,6
+Pasta (spaghetti),1.79,9,7
+Salsa,3.99,9,8
+
+Dryer Sheets,3.99,10,1
+Fabric Softener,2.79,10,2
+Moth Balls,2.99,10,3
+Sponge,1.79,10,4
+Bleach,4.99,10,5
+Dishwasher Soap,2.99,10,6
+Candle,1.79,10,7
+Bar Soap,1.99,10,8
+
+Grapes,2.79,11,1
+Bananas,0.79,11,2
+Oranges,1.00,11,3
+Limes,0.80,11,4
+Cucumbers,1.00,11,5
+Red Peppers,2.99,11,6
+Carrots,1.29,11,7
+Tomatoes,2.99,11,8
+
+Watermelon,4.99,12,1
+Apples,1.99,12,2
+Green Peppers,2.99,12,3
+Potatoes,2.79,12,4
+Lemons,0.80,12,5
+Pears,1.99,12,6
+Peaches,1.79,12,7
+Strawberries,3.99,12,8

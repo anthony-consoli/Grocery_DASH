@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{76981f7b-d381-4143-9642-73ea29f4b738}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\grocery_DASH">
+      <UniqueIdentifier>{692c10c7-309b-4c70-a597-37256d01f115}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\grocery_DASH_VS">
+      <UniqueIdentifier>{3c4356f9-e1fa-4bfb-a811-9063dfbd2e2f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\grocery_DASH_VS\stdafx.h">
+      <Filter>src\grocery_DASH_VS</Filter>
+    </ClInclude>
+    <ClInclude Include="src\grocery_DASH\GroceryDash.h">
+      <Filter>src\grocery_DASH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\grocery_DASH\GroceryDashTextGenerator.h">
+      <Filter>src\grocery_DASH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\grocery_DASH\GroceryDashDataLoader.h">
+      <Filter>src\grocery_DASH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\grocery_DASH\GroceryDashButtonEventHandler.h">
+      <Filter>src\grocery_DASH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\grocery_DASH\GroceryDashCollisionListener.h">
+      <Filter>src\grocery_DASH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\grocery_DASH\GroceryDashKeyEventHandler.h">
+      <Filter>src\grocery_DASH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\grocery_DASH\GroceryDashMouseEventHandler.h">
+      <Filter>src\grocery_DASH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\grocery_DASH\GroceryDashLuaScripting.h">
+      <Filter>src\grocery_DASH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\grocery_DASH\GroceryDashAudio.h">
+      <Filter>src\grocery_DASH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\grocery_DASH\SDKwavefile.h">
+      <Filter>src\grocery_DASH</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\grocery_DASH_VS\stdafx.cpp">
+      <Filter>src\grocery_DASH_VS</Filter>
+    </ClCompile>
+    <ClCompile Include="src\grocery_DASH\GroceryDash.cpp">
+      <Filter>src\grocery_DASH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\grocery_DASH\GroceryDashTextGenerator.cpp">
+      <Filter>src\grocery_DASH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\grocery_DASH\GroceryDashDataLoader.cpp">
+      <Filter>src\grocery_DASH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\grocery_DASH\GroceryDashButtonEventHandler.cpp">
+      <Filter>src\grocery_DASH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\grocery_DASH\GroceryDashCollisionListener.cpp">
+      <Filter>src\grocery_DASH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\grocery_DASH\GroceryDashKeyEventHandler.cpp">
+      <Filter>src\grocery_DASH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\grocery_DASH\GroceryDashMouseEventHandler.cpp">
+      <Filter>src\grocery_DASH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\grocery_DASH\GroceryDashLuaScripting.cpp">
+      <Filter>src\grocery_DASH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\grocery_DASH\GroceryDashAudio.cpp">
+      <Filter>src\grocery_DASH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\grocery_DASH\SDKwavefile.cpp">
+      <Filter>src\grocery_DASH</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="src\grocery_DASH_VS\Sprite Type Numbers.txt">
+      <Filter>src\grocery_DASH_VS</Filter>
+    </Text>
+    <Text Include="src\grocery_DASH_VS\Item Number List.txt">
+      <Filter>src\grocery_DASH_VS</Filter>
+    </Text>
+    <Text Include="src\grocery_DASH_VS\Cheat Code List.txt">
+      <Filter>src\grocery_DASH_VS</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

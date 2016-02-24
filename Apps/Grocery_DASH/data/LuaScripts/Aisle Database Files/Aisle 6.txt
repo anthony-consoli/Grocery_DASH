@@ -1,0 +1,17 @@
+Item Name,Price,Price per Pound,Location
+Cat Food (cans),$0.65,x,6
+Cat Food (large bag),$5.99,x,6
+Cat Food (small bag),$3.99,x,6
+Cat Litter,$9.99,x,6
+Dog Food (cans),$0.89,x,6
+Dog Food (large bag),$5.99,x,6
+Dog Food (small bag),$3.99,x,6
+Firewood,$6.99,x,6
+Fish Food,$1.00,x,6
+Light Bulbs (large),$5.99,x,6
+Light Bulbs (small),$2.99,x,6
+Lighter Fluid,$1.99,x,6
+Motor Oil,$5.79,x,6
+Pet Toys,$1.50,x,6
+Rock Salt,$2.99,x,6
+Wiper Fluid,$6.50,x,6

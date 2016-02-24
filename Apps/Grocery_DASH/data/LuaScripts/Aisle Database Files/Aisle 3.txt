@@ -1,0 +1,11 @@
+Item Name,Price,Price per Pound,Location
+Breadsticks,$2.99,x,3
+Cereal,$3.99,x,3
+Cookies (chocolate),$2.99,x,3
+Cookies (vanilla),$2.99,x,3
+Crackers,$1.99,x,3
+Fruit Bars,$2.79,x,3
+Fruit Snacks,$1.89,x,3
+Oatmeal,$3.79,x,3
+Pop Tarts,$3.79,x,3
+Wheat Germ,$2.79,x,3
